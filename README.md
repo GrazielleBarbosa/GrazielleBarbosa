@@ -2,8 +2,8 @@
 
 
 <div>
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Grazi&show_icons=true&theme=dracula&include_a11_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Grazi&layout=compact&langs_count=16&theme=dracula"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=GrazielleBarbosa&show_icons=true&theme=dracula&include_a11_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrazielleBarbosa&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 ##
