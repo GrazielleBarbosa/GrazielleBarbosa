@@ -1,8 +1,5 @@
-@Olá!   
+# Olá! Sou estudante de Ciência da Computação.  
 
-Estou estudando ciência da computação.
-
-##
 
 <div>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Grazi&show_icons=true&theme=dracula&include_a11_commits=true&count_private=true"/>
