@@ -1,6 +1,6 @@
-# Olá!  
+@Olá!   
 
-Estou estudando Ciência da computação.
+Estou estudando ciência da computação.
 
 ##
 
